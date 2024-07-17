@@ -1,0 +1,21 @@
+#VAZHA
+{
+    background-color: black;
+    img{
+        height: 400px;
+        width: auto;
+        border: 10px solid white;
+        margin-left: 27.5%;
+        margin-right: auto;
+    }
+    h1{
+        text-align: center;
+        color: antiquewhite;
+        font-family: "Libre Baskerville", serif;
+    }
+    h2{
+        text-align: center;
+        color: antiquewhite;
+    }
+    
+}
